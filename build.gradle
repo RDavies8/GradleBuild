@@ -6,6 +6,8 @@
  * user guide available at https://docs.gradle.org/3.5/userguide/tutorial_java_projects.html
  */
 
+// Additional Comment
+
 // Apply the java plugin to add support for Java
 apply plugin: 'java'
 
